@@ -51,3 +51,25 @@ input.empty {
 .middlearea {
   max-height: 200px !important;
 }
+
+.card-header,
+.card-footer {
+  background-color: white;
+  border: none;
+}
+
+.list-group-horizontal {
+  border: none !important;
+}
+
+.body {
+  background-color: #ffffff;
+}
+
+.rightpanel {
+  border: none;
+}
+
+#sticky-sidebar {
+  position: fixed;
+}
